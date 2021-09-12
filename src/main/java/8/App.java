@@ -1,5 +1,3 @@
-package 8;
-
 /**
  * Hello world!
  *
